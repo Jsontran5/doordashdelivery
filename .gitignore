@@ -1,0 +1,4 @@
+# Ignore Jupyter notebook checkpoints and output cache
+**/.ipynb_checkpoints
+*.pyc
+__pycache__/
